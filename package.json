@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "desafio3backend",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e `js` .",
+    "serve": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
